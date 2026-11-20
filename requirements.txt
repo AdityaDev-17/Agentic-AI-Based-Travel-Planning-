@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-core
+python-dotenv
+requests
+pydantic
+streamlit
